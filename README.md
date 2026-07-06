@@ -1,3 +1,18 @@
+<div style="
+  border: 8px solid;
+  border-image: linear-gradient(90deg,
+    #ff0000,
+    #ff7a00,
+    #ffee00,
+    #00ff2a,
+    #00e5ff,
+    #0044ff,
+    #b400ff
+  ) 1;
+  border-radius: 18px;
+  padding: 15px;
+">
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00e5ff&height=170&section=header&text=SIEM%20PARALLAX%20PERSONA%20ONLINE&fontSize=30&fontColor=00e5ff" />
 </p>
@@ -69,3 +84,5 @@
     english • spanish • learning french • global mindset
   </sub>
 </p>
+
+</div>
