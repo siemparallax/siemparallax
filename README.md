@@ -12,11 +12,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=00FFCC&center=true&vCenter=true&width=900&lines=Fluent+in+English+%26+Spanish;Currently+learning+French;Multilingual+communication+skillset;Expanding+global+language+capabilities" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=FF4FD8&center=true&vCenter=true&width=900&lines=Fluent+in+English+%26+Spanish;Currently+learning+French;Multilingual+communication+skillset;Expanding+global+language+capabilities" />
 </p>
 
 <p align="center">
-  <sub style="color:#00ffcc;">
+  <sub style="color:#FF4FD8;">
     english • spanish • learning french • global mindset
   </sub>
 </p>
