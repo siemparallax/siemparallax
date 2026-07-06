@@ -10,15 +10,9 @@
 
 ## 🧬 IDENTITY CORE
 
-```bash id="core01"
-root@system:~$ identity_scan
-
-NAME      :  SİEM (22)
-FIELD     : Finance / Cybersecurity / Software Engineering
-ROLE      : Blue Team Defensive Analyst (Training Phase)
-STATUS    : ACTIVE DEVELOPMENT
-MINDSET   : Analytical | Adaptive | System-Oriented
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=NAME:+SİEM+(22);FIELD:+Finance+%2F+Cybersecurity+%2F+Software+Engineering;ROLE:+Blue+Team+Defensive+Analyst+(Training+Phase);STATUS:+ACTIVE+DEVELOPMENT;MINDSET:+Analytical+%7C+Adaptive+%7C+System-Oriented" />
+</p>
 ┌──────────────────────────────────────┐
 │ THREAT DETECTION   → ONLINE          │
 │ INCIDENT RESPONSE  → STANDBY         │
