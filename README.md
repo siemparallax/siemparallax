@@ -14,10 +14,14 @@
 
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=siemparallax&bg_color=000000&color=00e5ff&line=7a00ff&point=00e5ff&area=true&hide_border=true" /> </p>
 
-GitHub   → ACTIVE NODE
-Telegram → SECURE CHANNEL OPEN
-Status   → OPEN FOR COLLABORATION
-echo "Operator initialized successfully."
-echo "Blue Team mindset active."
-echo "Continuous learning engaged."
+
+## 🧬 IDENTITY CORE
+
+```text
+SİEM (22)
+Finance Student
+Cybersecurity Learner
+Blue Team Mindset
+Software Development Path
+Multilingual (EN / ES / FR)
 
