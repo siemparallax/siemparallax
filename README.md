@@ -9,16 +9,13 @@
 ---
 ## 🧬 IDENTITY CORE
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=SİEM+%2822%29;Finance+Student;Cybersecurity+Learner;Blue+Team+Mindset;Software+Development" />
-</p>
-
-<p align="center">
-  Analytical • Adaptive • Security-Oriented
-</p>
-<p align="center">
-  <b>Analytical • Adaptive • Security-Oriented • Always Learning</b>
-</p>
+```text
+SİEM (22)
+Finance Student
+Cybersecurity Learner
+Blue Team Mindset
+Software Development Path
+Multilingual (EN / ES / FR)
 
 
 <p align="center">
