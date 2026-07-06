@@ -1,4 +1,3 @@
-```html
 <div style="
   border: 8px solid;
   border-image: linear-gradient(90deg,
@@ -32,17 +31,8 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:ff0000,25:ffcc00,50:00ffcc,75:0066ff,100:ff00ff&animation=fadeIn" />
 </p>
 
-<!-- MAVİ YAZILAR -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=S%C4%B0EM+%2822%29" />
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFD700&center=true&vCenter=true&width=650&lines=Finance+Student" />
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Cybersecurity+Learner" />
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Blue+Team+Mindset" />
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Software+Development" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=S%C4%B0EM+%2822%29;Finance+Student;Cybersecurity+Learner;Blue+Team+Mindset;Software+Development" />
 </p>
 
 <!-- 🌈 DIVIDER -->
@@ -95,5 +85,4 @@
   </sub>
 </p>
 
-</div>
-```
+</div> 
