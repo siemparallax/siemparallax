@@ -7,19 +7,7 @@
 </p>
 
 ---
-## 🧬 IDENTITY CORE
 
-```text
-SİEM (22)
-Finance Student
-Cybersecurity Learner
-Blue Team Mindset
-Software Development Path
-Multilingual (EN / ES / FR)
-
-
-<p align="center">
-  SYSTEM STATUS: ACTIVE LEARNING MODE
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siemparallax&theme=tokyonight&hide_border=true" /> </p>
