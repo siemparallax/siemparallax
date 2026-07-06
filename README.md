@@ -14,14 +14,9 @@
 
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=siemparallax&bg_color=000000&color=00e5ff&line=7a00ff&point=00e5ff&area=true&hide_border=true" /> </p>
 
-
 ## 🧬 IDENTITY CORE
 
-```text
-SİEM (22)
-Finance Student
-Cybersecurity Learner
-Blue Team Mindset
-Software Development Path
-Multilingual (EN / ES / FR)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=S%C4%B0EM+%2822%29;Finance+Student;Cybersecurity+Learner;Blue+Team+Mindset;Software+Development" />
+</p>
 
