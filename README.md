@@ -15,31 +15,15 @@
 
 ---
 
-## 👤 ABOUT ME
+## 🧬 IDENTITY CORE
 
-I am a 22-year-old finance student with a strong interest in **cybersecurity and software development**.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=00E5FF&center=true&vCenter=true&width=600&lines=SİEM+%28Age+22%29;Finance+Student;Cybersecurity+Learner;Blue+Team+Mindset;Software+Development+Path" />
+</p>
 
-My focus is on understanding how systems work, how they fail, and how they can be defended. I naturally align with the **Blue Team mindset**, prioritizing protection, monitoring, and system resilience.
-
-I do not define myself through rigid identity labels. Instead, I focus on continuous learning, adaptability, and self-development across different fields.
-
----
-
-## 🧠 MINDSET
-
-- Analytical thinking from finance background  
-- Defensive cybersecurity approach (Blue Team)  
-- Software development learning path  
-- Discipline and precision mindset (archery interest)  
-- Multilingual communication ability (EN / ES / FR)
-
----
-
-## 🎯 FOCUS
-
-My long-term goal is to grow in both **software engineering** and **cybersecurity**, building secure and efficient systems while improving my technical depth every day.
-
----
+<p align="center">
+  <sub>analytical • adaptive • continuously learning</sub>
+</p>
 
 <p align="center">
   SYSTEM STATUS: ACTIVE LEARNING MODE
