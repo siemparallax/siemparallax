@@ -14,16 +14,18 @@
 </p>
 
 ---
-
 ## 🧬 IDENTITY CORE
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=00E5FF&center=true&vCenter=true&width=600&lines=SİEM+%28Age+22%29;Finance+Student;Cybersecurity+Learner;Blue+Team+Mindset;Software+Development+Path" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=900&color=00E5FF&center=true&vCenter=true&width=800&lines=>+SİEM+%7C+AGE+22;>+FINANCE+STUDENT+%7C+ANALYTICAL+MINDSET;>+CYBERSECURITY+LEARNER+%7C+BLUE+TEAM;>+SOFTWARE+DEVELOPMENT+PATH;>+MULTILINGUAL+%7C+EN+ES+FR;>+STATUS:+ACTIVE+DEVELOPMENT" />
 </p>
 
+---
+
 <p align="center">
-  <sub>analytical • adaptive • continuously learning</sub>
+  <b>Analytical • Adaptive • Security-Oriented • Always Learning</b>
 </p>
+
 
 <p align="center">
   SYSTEM STATUS: ACTIVE LEARNING MODE
