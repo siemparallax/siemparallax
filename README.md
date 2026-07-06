@@ -10,18 +10,12 @@
 ## 🧬 IDENTITY CORE
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=750&color=00E5FF&center=true&vCenter=true&width=900&lines=I+am+SİEM+(22);Finance+student+with+analytical+thinking;Cybersecurity+%2F+Software+development+enthusiast;Blue+Team+oriented+defender;Focused+on+building+secure+systems;Multilingual+%7C+Adaptive+%7C+Continuous+learner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=SİEM+%2822%29;Finance+Student;Cybersecurity+Learner;Blue+Team+Mindset;Software+Development" />
 </p>
-
----
-## 🧬 IDENTITY CORE
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=900&color=00E5FF&center=true&vCenter=true&width=800&lines=>+SİEM+%7C+AGE+22;>+FINANCE+STUDENT+%7C+ANALYTICAL+MINDSET;>+CYBERSECURITY+LEARNER+%7C+BLUE+TEAM;>+SOFTWARE+DEVELOPMENT+PATH;>+MULTILINGUAL+%7C+EN+ES+FR;>+STATUS:+ACTIVE+DEVELOPMENT" />
+  Analytical • Adaptive • Security-Oriented
 </p>
-
----
-
 <p align="center">
   <b>Analytical • Adaptive • Security-Oriented • Always Learning</b>
 </p>
