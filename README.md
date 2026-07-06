@@ -43,42 +43,7 @@ My long-term goal is to grow in both **software engineering** and **cybersecurit
 
 <p align="center">
   SYSTEM STATUS: ACTIVE LEARNING MODE
-</p>
-┌──────────────────────────────────────┐
-│ THREAT DETECTION   → ONLINE          │
-│ INCIDENT RESPONSE  → STANDBY         │
-│ MONITORING ENGINE  → ACTIVE          │
-│ SECURITY POSTURE    → HARDENING      │
-│ SYSTEM INTEGRITY    → STABLE         │
-└──────────────────────────────────────┘
 
-EN → ██████████ Advanced
-ES → ████████░░ Proficient
-FR → █████░░░░░ Learning
-
-
-core:
-  programming:
-    - Python
-    - JavaScript
-  systems:
-    - Linux
-    - Networking Fundamentals
-  security:
-    - Blue Team Concepts
-    - Defensive Monitoring
-    - System Hardening
-  development:
-    - Web Basics
-    - Git / GitHub Workflow
-
-systemctl status operator.service
-
-✔ GitHub Profile     : ONLINE
-✔ Telegram Network    : CONNECTED
-✔ Learning Pipeline   : CONTINUOUS
-✔ Development Mode    : ACTIVE
-✔ Focus Level         : HIGH
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siemparallax&theme=tokyonight&hide_border=true" /> </p>
 
