@@ -10,15 +10,15 @@
 ## 🧬 IDENTITY CORE
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0f0f,100:00e5ff&height=90&section=header&text=IDENTITY%20CORE%20LOADED&fontSize=22&fontColor=00e5ff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:00e5ff&height=120&section=header&text=IDENTITY%20LOADING...&fontSize=24&fontColor=00e5ff" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=700&color=00E5FF&center=true&vCenter=true&width=900&lines=NAME+%3A+SİEM+(22);FIELD+%3A+Finance+%2F+Cybersecurity+%2F+Software+Engineering;ROLE+%3A+Blue+Team+Defensive+Analyst;STATUS+%3A+ACTIVE+DEVELOPMENT+%E2%9C%94;MINDSET+%3A+Analytical+%7C+Adaptive+%7C+System-Oriented" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=00E5FF&center=true&vCenter=true&width=850&lines=SİEM+%28Age+22%29;Finance+Student;Cybersecurity+Enthusiast;Blue+Team+Defensive+Analyst;Software+Development+Learner;Analytical+%7C+Adaptive+%7C+System+Oriented" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:7a00ff&height=40&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,100:7a00ff&height=80&section=footer" />
 </p>
 ┌──────────────────────────────────────┐
 │ THREAT DETECTION   → ONLINE          │
