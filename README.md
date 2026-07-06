@@ -11,7 +11,7 @@
 ## 🧬 IDENTITY CORE
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=NAME:+SİEM+(22);FIELD:+Finance+%2F+Cybersecurity+%2F+Software+Engineering;ROLE:+Blue+Team+Defensive+Analyst+(Training+Phase);STATUS:+ACTIVE+DEVELOPMENT;MINDSET:+Analytical+%7C+Adaptive+%7C+System-Oriented" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=600&color=00F7FF&center=true&vCenter=true&width=800&lines=NAME+%3A+SİEM+(22);FIELD+%3A+Finance+%2F+Cybersecurity+%2F+Software+Engineering;ROLE+%3A+Blue+Team+Defensive+Analyst;STATUS+%3A+ACTIVE+DEVELOPMENT;MINDSET+%3A+Analytical+%7C+Adaptive+%7C+System-Oriented" />
 </p>
 ┌──────────────────────────────────────┐
 │ THREAT DETECTION   → ONLINE          │
